@@ -12,8 +12,7 @@ module.exports = function(grunt) {
         },
         files: {
           'css/app2.css': 'scss/app.scss',
-          '../../node/ct-angular/client/app/main/app.css': 'scss/app.scss',
-          '../../node/www.ctapp.io/client/app/main/app.css': 'scss/app.scss'
+          '../../nodejs/ct-angular/client/app/main/app.css': 'scss/app.scss',
         }
       }
     },
